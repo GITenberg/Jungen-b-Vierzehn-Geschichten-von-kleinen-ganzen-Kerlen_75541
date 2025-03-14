@@ -1,0 +1,49 @@
+_repo: Jungen-b-Vierzehn-Geschichten-von-kleinen-ganzen-Kerlen_75541
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Andresen, A.
+    gutenberg_agent_id: '58042'
+    url: http://www.gutenberg.org/2009/agents/58042
+  - agent_name: Bergh, Lisbeth
+    aliases:
+    - Bergh, Elisabeth
+    - Bergh, L. (Lisbeth)
+    birthdate: 1861
+    deathdate: 1927
+    gutenberg_agent_id: '45032'
+    url: http://www.gutenberg.org/2009/agents/45032
+    wikipedia: https://no.wikipedia.org/wiki/Lisbeth_Bergh
+  translators:
+  - agent_name: Leskien, Friedrich
+    gutenberg_agent_id: '58040'
+    url: http://www.gutenberg.org/2009/agents/58040
+  - agent_name: Leskien-Lie, Marie
+    gutenberg_agent_id: '58041'
+    url: http://www.gutenberg.org/2009/agents/58041
+creator:
+  author:
+    agent_name: Aanrud, Hans
+    birthdate: 1863
+    deathdate: 1953
+    gutenberg_agent_id: '31932'
+    url: http://www.gutenberg.org/2009/agents/31932
+    wikipedia: https://en.wikipedia.org/wiki/Hans_Aanrud
+description: ''
+gutenberg_issued: '2025-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75541'
+language: de
+pgterms:marc905: 20231122014809aanrud
+pgterms:marc906: '1910'
+pgterms:marc907: de
+production_note: Hans Theyer and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aLeipzig :$bVerlag von Georg Merseburger, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Jungen : $b Vierzehn Geschichten von kleinen ganzen Kerlen'
+url: http://www.gutenberg.org/ebooks/75541
