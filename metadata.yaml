@@ -21,6 +21,9 @@ contributor:
   - agent_name: Leskien-Lie, Marie
     gutenberg_agent_id: '58041'
     url: http://www.gutenberg.org/2009/agents/58041
+covers:
+- cover_type: archival
+  image_path: 75541-h/images/cover.jpg
 creator:
   author:
     agent_name: Aanrud, Hans
@@ -30,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31932
     wikipedia: https://en.wikipedia.org/wiki/Hans_Aanrud
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75541#Jungen-b-Vierzehn-Geschichten-von-kleinen-ganzen-Kerlen
 gutenberg_issued: '2025-03-06'
 gutenberg_type: Text
 identifiers:
